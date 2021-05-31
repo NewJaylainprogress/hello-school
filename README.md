@@ -1,5 +1,4 @@
 # hello-school
-
  int main()
  {
  int i;
@@ -8,4 +7,3 @@
  printf("Hello School\n");
  }
  return 0;
- }
